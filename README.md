@@ -14,9 +14,9 @@ Step 3: After the data is entered correctly it will provide the names of the res
 
 Dependencies:
 
-pandas
-re
-datetime
+1.pandas
+2.re
+3.datetime
 
 
 
