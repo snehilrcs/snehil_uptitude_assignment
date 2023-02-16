@@ -12,6 +12,12 @@ Step 1: Clone the repo and open the "restaurants_timing.py" file in an editor.
 Step 2: Enter the data as per prometed after running the code.
 Step 3: After the data is entered correctly it will provide the names of the restaurant open during that time at that given date.
 
+Dependencies:
+
+pandas
+re
+datetime
+
 
 
 
